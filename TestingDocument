@@ -1,0 +1,48 @@
+Tested letters in the Paint Number, Max'd out Year,WallSqFt, DoorSqFt, and Price per gallon. Normal numbers for Day and Month.   
+O-Total-Wall-Sq-Ft = 9000, O-Gallons-Needed = 78.26, O-Paint-Est = 7825.21, O-Labor-Est = 5529.06, O-Total-Est = 13354.2      
+
+                     
+Tested normal random numbers in every input.
+O-Total-Wall-Sq-Ft = 4691, O-Gallons-Needed = 40.79, O-Paint-Est = 2668.88, O-Labor-Est = 2881.81, O-Total-Est = 5550.6
+
+ 
+Tested Letters in the PAint Number, Zero'd out the year, nromal number for everything else
+O-Total-Wall-Sq-Ft = 8181, O-Gallons-Needed = 71.13, O-Paint-Est = 646.57, O-Labor-Est = 5025.33, O-Total-Est = 5671.9
+
+
+Letters in PAint Number, Zero'd out everything.
+O-Total-Wall-Sq-Ft = 0000, O-Gallons-Needed = 00.00, O-Paint-Est = $.00, O-Labor-Est = $.00, O-Total-Est = $.00
+
+
+Letters and one space in Paint Number, random numbers in everything else
+O-Total-Wall-Sq-Ft = 7573, O-Gallons-Needed = 65.85, O-Paint-Est = 2317.92, O-Labor-Est = 4652.30, O-Total-Est = 6970.2
+
+
+Letters in paint number, max'd out everything else
+O-Total-Wall-Sq-Ft = 9000, O-Gallons-Needed = 78.26, O-Paint-Est = 7825.21, O-Labor-Est = 5529.06, O-Total-Est = 13354.2 
+
+
+Numbers in paint number, zero'd out everything else.
+O-Total-Wall-Sq-Ft = 0000, O-Gallons-Needed = 000.00, O-Paint-Est = $.00, O-Labor-Est = $.00, O-Total-Est = $.0
+
+
+MAx'd out year, Zero'd out anything else.
+O-Total-Wall-Sq-Ft = 0000, O-Gallons-Needed = 000.00, O-Paint-Est = $.00, O-Labor-Est = $.00, O-Total-Est = $.0
+
+
+LEtters in pain number, zero'd out everything else but the month.
+O-Total-Wall-Sq-Ft = 0000, O-Gallons-Needed = 000.00, O-Paint-Est = $.00, O-Labor-Est = $.00, O-Total-Est = $.0
+
+ 
+Letters in paint number, zero'd everything else but the day.
+O-Total-Wall-Sq-Ft = 0000, O-Gallons-Needed = 000.00, O-Paint-Est = $.00, O-Labor-Est = $.00, O-Total-Est = $.0
+
+
+Letters in paint number, zero'd everything else but the WallSqFt
+O-Total-Wall-Sq-Ft = 9999, O-Gallons-Needed = 86.94, O-Paint-Est = $.00, O-Labor-Est = 6142.31, O-Total-Est = 6142.3
+
+
+Letters in paint number, zero'd everything else but the DoorSqFt.
+O-Total-Wall-Sq-Ft = 999, O-Gallons-Needed = 8.68, O-Paint-Est = $.00, O-Labor-Est = $613.24, O-Total-Est = $613.2
+
+
